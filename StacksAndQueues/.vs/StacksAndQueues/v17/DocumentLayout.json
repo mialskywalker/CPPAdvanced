@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A841763D-BBFD-4B9D-B58C-96139A924332}|hotPotato\\hotPotato.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\hotPotato\\hotPotato.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A841763D-BBFD-4B9D-B58C-96139A924332}|hotPotato\\hotPotato.vcxproj|solutionrelative:hotPotato\\hotPotato.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D28C4F-5B45-4B89-9754-61A490C8C2CA}|supermarket\\supermarket.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\supermarket\\supermarket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7D28C4F-5B45-4B89-9754-61A490C8C2CA}|supermarket\\supermarket.vcxproj|solutionrelative:supermarket\\supermarket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE01D42C-BD3B-4930-A2B0-44E081A335C2}|printEvenNumbers\\printEvenNumbers.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\printEvenNumbers\\printEvenNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE01D42C-BD3B-4930-A2B0-44E081A335C2}|printEvenNumbers\\printEvenNumbers.vcxproj|solutionrelative:printEvenNumbers\\printEvenNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94826F8F-1BE8-49C5-9865-A1A279D3F6FA}|matchingBrackets\\matchingBrackets.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\matchingBrackets\\matchingBrackets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94826F8F-1BE8-49C5-9865-A1A279D3F6FA}|matchingBrackets\\matchingBrackets.vcxproj|solutionrelative:matchingBrackets\\matchingBrackets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FC1DE2-B5BE-48BB-B3A6-A540622807BC}|simpleCalculator\\simpleCalculator.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\simpleCalculator\\simpleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38FC1DE2-B5BE-48BB-B3A6-A540622807BC}|simpleCalculator\\simpleCalculator.vcxproj|solutionrelative:simpleCalculator\\simpleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7AD3D0-2DF9-4AB3-8AA2-53AA71C93547}|stackSum\\stackSum.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\stackSum\\stackSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD7AD3D0-2DF9-4AB3-8AA2-53AA71C93547}|stackSum\\stackSum.vcxproj|solutionrelative:stackSum\\stackSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F3139-217E-4118-898A-0BB4B57BFB2E}|reverseString\\reverseString.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueues\\reverseString\\reverseString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{916F3139-217E-4118-898A-0BB4B57BFB2E}|reverseString\\reverseString.vcxproj|solutionrelative:reverseString\\reverseString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hotPotato.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\hotPotato\\hotPotato.cpp",
+              "RelativeDocumentMoniker": "hotPotato\\hotPotato.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\hotPotato\\hotPotato.cpp",
+              "RelativeToolTip": "hotPotato\\hotPotato.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:39:49.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "supermarket.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\supermarket\\supermarket.cpp",
+              "RelativeDocumentMoniker": "supermarket\\supermarket.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\supermarket\\supermarket.cpp",
+              "RelativeToolTip": "supermarket\\supermarket.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:39:38.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "printEvenNumbers.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\printEvenNumbers\\printEvenNumbers.cpp",
+              "RelativeDocumentMoniker": "printEvenNumbers\\printEvenNumbers.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\printEvenNumbers\\printEvenNumbers.cpp",
+              "RelativeToolTip": "printEvenNumbers\\printEvenNumbers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:39:19.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "matchingBrackets.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\matchingBrackets\\matchingBrackets.cpp",
+              "RelativeDocumentMoniker": "matchingBrackets\\matchingBrackets.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\matchingBrackets\\matchingBrackets.cpp",
+              "RelativeToolTip": "matchingBrackets\\matchingBrackets.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:38:58.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "simpleCalculator.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\simpleCalculator\\simpleCalculator.cpp",
+              "RelativeDocumentMoniker": "simpleCalculator\\simpleCalculator.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\simpleCalculator\\simpleCalculator.cpp",
+              "RelativeToolTip": "simpleCalculator\\simpleCalculator.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:38:45.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stackSum.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\stackSum\\stackSum.cpp",
+              "RelativeDocumentMoniker": "stackSum\\stackSum.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\stackSum\\stackSum.cpp",
+              "RelativeToolTip": "stackSum\\stackSum.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:38:16.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "reverseString.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\reverseString\\reverseString.cpp",
+              "RelativeDocumentMoniker": "reverseString\\reverseString.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueues\\reverseString\\reverseString.cpp",
+              "RelativeToolTip": "reverseString\\reverseString.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:37:33.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
