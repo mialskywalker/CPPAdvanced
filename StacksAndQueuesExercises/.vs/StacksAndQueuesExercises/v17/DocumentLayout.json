@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\StacksAndQueuesExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B63E63-7707-42E3-B644-C02E1B14EADA}|balancedParenthesis\\balancedParenthesis.vcxproj|C:\\Projects\\CPPAdvanced\\StacksAndQueuesExercises\\balancedParenthesis\\balancedParenthesis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32B63E63-7707-42E3-B644-C02E1B14EADA}|balancedParenthesis\\balancedParenthesis.vcxproj|solutionrelative:balancedParenthesis\\balancedParenthesis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "balancedParenthesis.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\StacksAndQueuesExercises\\balancedParenthesis\\balancedParenthesis.cpp",
+              "RelativeDocumentMoniker": "balancedParenthesis\\balancedParenthesis.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\StacksAndQueuesExercises\\balancedParenthesis\\balancedParenthesis.cpp",
+              "RelativeToolTip": "balancedParenthesis\\balancedParenthesis.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T11:38:49.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
