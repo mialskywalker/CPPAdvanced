@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AA2131-137F-4DC0-9BA5-BEFD87977951}|evenTimes\\evenTimes.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\evenTimes\\evenTimes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22AA2131-137F-4DC0-9BA5-BEFD87977951}|evenTimes\\evenTimes.vcxproj|solutionrelative:evenTimes\\evenTimes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE29246C-9FEE-4BB2-849B-90DD35DE4099}|setsOfElements\\setsOfElements.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\setsOfElements\\setsOfElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE29246C-9FEE-4BB2-849B-90DD35DE4099}|setsOfElements\\setsOfElements.vcxproj|solutionrelative:setsOfElements\\setsOfElements.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841BFD96-A327-4145-9CC6-743D7EE9A1AB}|uniqueUsernames\\uniqueUsernames.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\uniqueUsernames\\uniqueUsernames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{841BFD96-A327-4145-9CC6-743D7EE9A1AB}|uniqueUsernames\\uniqueUsernames.vcxproj|solutionrelative:uniqueUsernames\\uniqueUsernames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDFEC51-AF9A-47BD-91F9-EE8D60B040A7}|parkingLot\\parkingLot.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\parkingLot\\parkingLot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EDFEC51-AF9A-47BD-91F9-EE8D60B040A7}|parkingLot\\parkingLot.vcxproj|solutionrelative:parkingLot\\parkingLot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CD962F-6435-458F-BE0F-455613EA7123}|recordUniqueNames\\recordUniqueNames.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\recordUniqueNames\\recordUniqueNames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08CD962F-6435-458F-BE0F-455613EA7123}|recordUniqueNames\\recordUniqueNames.vcxproj|solutionrelative:recordUniqueNames\\recordUniqueNames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259324E9-7CF8-4F13-B944-C6DF8B0A2A7C}|countSameValuesInArray\\countSameValuesInArray.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\countSameValuesInArray\\countSameValuesInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{259324E9-7CF8-4F13-B944-C6DF8B0A2A7C}|countSameValuesInArray\\countSameValuesInArray.vcxproj|solutionrelative:countSameValuesInArray\\countSameValuesInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08D6C83-68B5-42F8-BED1-9555E0CFC0A2}|citiesByContinentAndCountry\\citiesByContinentAndCountry.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\citiesByContinentAndCountry\\citiesByContinentAndCountry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B08D6C83-68B5-42F8-BED1-9555E0CFC0A2}|citiesByContinentAndCountry\\citiesByContinentAndCountry.vcxproj|solutionrelative:citiesByContinentAndCountry\\citiesByContinentAndCountry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37F0ADF-8E5A-4665-889C-1BA19B8949A0}|averageStudentGrades\\averageStudentGrades.vcxproj|C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\averageStudentGrades\\averageStudentGrades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A37F0ADF-8E5A-4665-889C-1BA19B8949A0}|averageStudentGrades\\averageStudentGrades.vcxproj|solutionrelative:averageStudentGrades\\averageStudentGrades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "evenTimes.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\evenTimes\\evenTimes.cpp",
+              "RelativeDocumentMoniker": "evenTimes\\evenTimes.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\evenTimes\\evenTimes.cpp",
+              "RelativeToolTip": "evenTimes\\evenTimes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:29:12.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "setsOfElements.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\setsOfElements\\setsOfElements.cpp",
+              "RelativeDocumentMoniker": "setsOfElements\\setsOfElements.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\setsOfElements\\setsOfElements.cpp",
+              "RelativeToolTip": "setsOfElements\\setsOfElements.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:29:03.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uniqueUsernames.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\uniqueUsernames\\uniqueUsernames.cpp",
+              "RelativeDocumentMoniker": "uniqueUsernames\\uniqueUsernames.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\uniqueUsernames\\uniqueUsernames.cpp",
+              "RelativeToolTip": "uniqueUsernames\\uniqueUsernames.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:28:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "parkingLot.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\parkingLot\\parkingLot.cpp",
+              "RelativeDocumentMoniker": "parkingLot\\parkingLot.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\parkingLot\\parkingLot.cpp",
+              "RelativeToolTip": "parkingLot\\parkingLot.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:28:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "recordUniqueNames.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\recordUniqueNames\\recordUniqueNames.cpp",
+              "RelativeDocumentMoniker": "recordUniqueNames\\recordUniqueNames.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\recordUniqueNames\\recordUniqueNames.cpp",
+              "RelativeToolTip": "recordUniqueNames\\recordUniqueNames.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:28:19.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "citiesByContinentAndCountry.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\citiesByContinentAndCountry\\citiesByContinentAndCountry.cpp",
+              "RelativeDocumentMoniker": "citiesByContinentAndCountry\\citiesByContinentAndCountry.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\citiesByContinentAndCountry\\citiesByContinentAndCountry.cpp",
+              "RelativeToolTip": "citiesByContinentAndCountry\\citiesByContinentAndCountry.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:28:04.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "averageStudentGrades.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\averageStudentGrades\\averageStudentGrades.cpp",
+              "RelativeDocumentMoniker": "averageStudentGrades\\averageStudentGrades.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\averageStudentGrades\\averageStudentGrades.cpp",
+              "RelativeToolTip": "averageStudentGrades\\averageStudentGrades.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:27:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "countSameValuesInArray.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\countSameValuesInArray\\countSameValuesInArray.cpp",
+              "RelativeDocumentMoniker": "countSameValuesInArray\\countSameValuesInArray.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapsAndSetsLabs\\countSameValuesInArray\\countSameValuesInArray.cpp",
+              "RelativeToolTip": "countSameValuesInArray\\countSameValuesInArray.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:27:05.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
