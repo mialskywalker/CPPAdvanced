@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBCD36-2613-4BC1-B657-57212C3AFCFD}|miners\\miners.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\miners\\miners.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74FBCD36-2613-4BC1-B657-57212C3AFCFD}|miners\\miners.vcxproj|solutionrelative:miners\\miners.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AB0A6E-6C1E-4DF8-8687-BD7EC5BECC68}|oddOccurrences\\oddOccurrences.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\oddOccurrences\\oddOccurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AB0A6E-6C1E-4DF8-8687-BD7EC5BECC68}|oddOccurrences\\oddOccurrences.vcxproj|solutionrelative:oddOccurrences\\oddOccurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B0B59F-8F3F-4600-988E-3AFE9DDFE9B9}|squares\\squares.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\squares\\squares.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58B0B59F-8F3F-4600-988E-3AFE9DDFE9B9}|squares\\squares.vcxproj|solutionrelative:squares\\squares.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3035B3E-F8F0-4FD5-AEC3-75C659584851}|largest3\\largest3.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\largest3\\largest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3035B3E-F8F0-4FD5-AEC3-75C659584851}|largest3\\largest3.vcxproj|solutionrelative:largest3\\largest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F653D8B-6C8D-43D1-9F6B-F3C177CEEEC9}|shortWords\\shortWords.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\shortWords\\shortWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F653D8B-6C8D-43D1-9F6B-F3C177CEEEC9}|shortWords\\shortWords.vcxproj|solutionrelative:shortWords\\shortWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E95A8-F73E-47EA-B741-913D4BB1F2E9}|sortNumbers\\sortNumbers.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\sortNumbers\\sortNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{747E95A8-F73E-47EA-B741-913D4BB1F2E9}|sortNumbers\\sortNumbers.vcxproj|solutionrelative:sortNumbers\\sortNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B43852F-0F05-4726-A5D5-D377016908DE}|countRealNumbers\\countRealNumbers.vcxproj|C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\countRealNumbers\\countRealNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B43852F-0F05-4726-A5D5-D377016908DE}|countRealNumbers\\countRealNumbers.vcxproj|solutionrelative:countRealNumbers\\countRealNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "miners.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\miners\\miners.cpp",
+              "RelativeDocumentMoniker": "miners\\miners.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\miners\\miners.cpp",
+              "RelativeToolTip": "miners\\miners.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:06:34.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "squares.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\squares\\squares.cpp",
+              "RelativeDocumentMoniker": "squares\\squares.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\squares\\squares.cpp",
+              "RelativeToolTip": "squares\\squares.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:06:25.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sortNumbers.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\sortNumbers\\sortNumbers.cpp",
+              "RelativeDocumentMoniker": "sortNumbers\\sortNumbers.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\sortNumbers\\sortNumbers.cpp",
+              "RelativeToolTip": "sortNumbers\\sortNumbers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:06:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shortWords.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\shortWords\\shortWords.cpp",
+              "RelativeDocumentMoniker": "shortWords\\shortWords.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\shortWords\\shortWords.cpp",
+              "RelativeToolTip": "shortWords\\shortWords.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:06:02.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "largest3.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\largest3\\largest3.cpp",
+              "RelativeDocumentMoniker": "largest3\\largest3.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\largest3\\largest3.cpp",
+              "RelativeToolTip": "largest3\\largest3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:05:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "oddOccurrences.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\oddOccurrences\\oddOccurrences.cpp",
+              "RelativeDocumentMoniker": "oddOccurrences\\oddOccurrences.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\oddOccurrences\\oddOccurrences.cpp",
+              "RelativeToolTip": "oddOccurrences\\oddOccurrences.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:05:39.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "countRealNumbers.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\countRealNumbers\\countRealNumbers.cpp",
+              "RelativeDocumentMoniker": "countRealNumbers\\countRealNumbers.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MapAndSetExercises\\countRealNumbers\\countRealNumbers.cpp",
+              "RelativeToolTip": "countRealNumbers\\countRealNumbers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T12:05:07.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
