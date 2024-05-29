@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E4BC9-0C0A-4B3B-99A2-22D00F11C948}|diagonalDifference\\diagonalDifference.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\diagonalDifference\\diagonalDifference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA2E4BC9-0C0A-4B3B-99A2-22D00F11C948}|diagonalDifference\\diagonalDifference.vcxproj|solutionrelative:diagonalDifference\\diagonalDifference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E19429-50D0-4D21-8EB1-F7B02AC8DA6C}|symbolInMatrix\\symbolInMatrix.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\symbolInMatrix\\symbolInMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77E19429-50D0-4D21-8EB1-F7B02AC8DA6C}|symbolInMatrix\\symbolInMatrix.vcxproj|solutionrelative:symbolInMatrix\\symbolInMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964330BC-551B-4CAA-88EE-725324A0DAF3}|sumMatrixColumns\\sumMatrixColumns.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\sumMatrixColumns\\sumMatrixColumns.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{964330BC-551B-4CAA-88EE-725324A0DAF3}|sumMatrixColumns\\sumMatrixColumns.vcxproj|solutionrelative:sumMatrixColumns\\sumMatrixColumns.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0264E40-A3BC-476B-AE1D-A3443DEABC0C}|primaryDiagonal\\primaryDiagonal.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\primaryDiagonal\\primaryDiagonal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0264E40-A3BC-476B-AE1D-A3443DEABC0C}|primaryDiagonal\\primaryDiagonal.vcxproj|solutionrelative:primaryDiagonal\\primaryDiagonal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "diagonalDifference.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\diagonalDifference\\diagonalDifference.cpp",
+              "RelativeDocumentMoniker": "diagonalDifference\\diagonalDifference.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\diagonalDifference\\diagonalDifference.cpp",
+              "RelativeToolTip": "diagonalDifference\\diagonalDifference.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T08:00:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "symbolInMatrix.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\symbolInMatrix\\symbolInMatrix.cpp",
+              "RelativeDocumentMoniker": "symbolInMatrix\\symbolInMatrix.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\symbolInMatrix\\symbolInMatrix.cpp",
+              "RelativeToolTip": "symbolInMatrix\\symbolInMatrix.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T08:00:16.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "primaryDiagonal.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\primaryDiagonal\\primaryDiagonal.cpp",
+              "RelativeDocumentMoniker": "primaryDiagonal\\primaryDiagonal.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\primaryDiagonal\\primaryDiagonal.cpp",
+              "RelativeToolTip": "primaryDiagonal\\primaryDiagonal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T08:00:03.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sumMatrixColumns.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\sumMatrixColumns\\sumMatrixColumns.cpp",
+              "RelativeDocumentMoniker": "sumMatrixColumns\\sumMatrixColumns.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysLabs\\sumMatrixColumns\\sumMatrixColumns.cpp",
+              "RelativeToolTip": "sumMatrixColumns\\sumMatrixColumns.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T07:59:29.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
