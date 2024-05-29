@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51C2CD89-9161-4832-8DA2-66A8A6400B4D}|compareMatrices\\compareMatrices.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\compareMatrices\\compareMatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{51C2CD89-9161-4832-8DA2-66A8A6400B4D}|compareMatrices\\compareMatrices.vcxproj|solutionrelative:compareMatrices\\compareMatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED7FFB97-54D9-4A82-BB4E-76A885FD88D1}|fillInMatrix\\fillInMatrix.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\fillInMatrix\\fillInMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ED7FFB97-54D9-4A82-BB4E-76A885FD88D1}|fillInMatrix\\fillInMatrix.vcxproj|solutionrelative:fillInMatrix\\fillInMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9B5C3E6-4BD5-4975-983E-8908B26CE00D}|reverseMatrixDiagonals\\reverseMatrixDiagonals.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9B5C3E6-4BD5-4975-983E-8908B26CE00D}|reverseMatrixDiagonals\\reverseMatrixDiagonals.vcxproj|solutionrelative:reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A032796D-514D-45DD-AF16-6CCA6B2F3097}|maximalSum\\maximalSum.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\maximalSum\\maximalSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A032796D-514D-45DD-AF16-6CCA6B2F3097}|maximalSum\\maximalSum.vcxproj|solutionrelative:maximalSum\\maximalSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64060DF4-015E-4E34-AA3F-55AFF4BA98CB}|snakeMoves\\snakeMoves.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\snakeMoves\\snakeMoves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9F94A8E-172A-470B-A140-E98F2B77889E}|positionsOf\\positionsOf.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\positionsOf\\positionsOf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A9F94A8E-172A-470B-A140-E98F2B77889E}|positionsOf\\positionsOf.vcxproj|solutionrelative:positionsOf\\positionsOf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B5C3E6-4BD5-4975-983E-8908B26CE00D}|reverseMatrixDiagonals\\reverseMatrixDiagonals.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9B5C3E6-4BD5-4975-983E-8908B26CE00D}|reverseMatrixDiagonals\\reverseMatrixDiagonals.vcxproj|solutionrelative:reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A032796D-514D-45DD-AF16-6CCA6B2F3097}|maximalSum\\maximalSum.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\maximalSum\\maximalSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A032796D-514D-45DD-AF16-6CCA6B2F3097}|maximalSum\\maximalSum.vcxproj|solutionrelative:maximalSum\\maximalSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C2CD89-9161-4832-8DA2-66A8A6400B4D}|compareMatrices\\compareMatrices.vcxproj|C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\compareMatrices\\compareMatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51C2CD89-9161-4832-8DA2-66A8A6400B4D}|compareMatrices\\compareMatrices.vcxproj|solutionrelative:compareMatrices\\compareMatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "fillInMatrix.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\fillInMatrix\\fillInMatrix.cpp",
               "RelativeDocumentMoniker": "fillInMatrix\\fillInMatrix.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\fillInMatrix\\fillInMatrix.cpp",
               "RelativeToolTip": "fillInMatrix\\fillInMatrix.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwC4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T09:15:08.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "reverseMatrixDiagonals.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp",
               "RelativeDocumentMoniker": "reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp",
               "RelativeToolTip": "reverseMatrixDiagonals\\reverseMatrixDiagonals.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T09:14:58.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "maximalSum.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\maximalSum\\maximalSum.cpp",
               "RelativeDocumentMoniker": "maximalSum\\maximalSum.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\maximalSum\\maximalSum.cpp",
               "RelativeToolTip": "maximalSum\\maximalSum.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T09:14:46.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T09:14:46.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "snakeMoves.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\snakeMoves\\snakeMoves.cpp",
               "RelativeDocumentMoniker": "snakeMoves\\snakeMoves.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\snakeMoves\\snakeMoves.cpp",
               "RelativeToolTip": "snakeMoves\\snakeMoves.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T09:14:36.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "squaresInMatrix.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\squaresInMatrix\\squaresInMatrix.cpp",
               "RelativeDocumentMoniker": "squaresInMatrix\\squaresInMatrix.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\squaresInMatrix\\squaresInMatrix.cpp",
               "RelativeToolTip": "squaresInMatrix\\squaresInMatrix.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T09:14:19.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "positionsOf.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\positionsOf\\positionsOf.cpp",
               "RelativeDocumentMoniker": "positionsOf\\positionsOf.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\positionsOf\\positionsOf.cpp",
               "RelativeToolTip": "positionsOf\\positionsOf.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T09:14:05.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "compareMatrices.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\compareMatrices\\compareMatrices.cpp",
               "RelativeDocumentMoniker": "compareMatrices\\compareMatrices.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MultidimensionalArraysExercises\\compareMatrices\\compareMatrices.cpp",
               "RelativeToolTip": "compareMatrices\\compareMatrices.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T09:13:42.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T09:13:42.335Z"
             }
           ]
         }

@@ -1,0 +1,3 @@
+﻿  snakeMoves.cpp
+C:\Projects\CPPAdvanced\MultidimensionalArraysExercises\snakeMoves\snakeMoves.cpp(14,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  snakeMoves.vcxproj -> C:\Projects\CPPAdvanced\MultidimensionalArraysExercises\x64\Debug\snakeMoves.exe
