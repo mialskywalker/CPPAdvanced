@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CB75D-C2E7-4F62-B292-22E6F1326E7B}|order\\order.vcxproj|C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\order\\order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D8CB75D-C2E7-4F62-B292-22E6F1326E7B}|order\\order.vcxproj|solutionrelative:order\\order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347B402E-B11B-44AD-9A08-3323FE7DB4EF}|find\\find.vcxproj|C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\find\\find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{347B402E-B11B-44AD-9A08-3323FE7DB4EF}|find\\find.vcxproj|solutionrelative:find\\find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC67F6-22A9-403E-8D19-3EFC77FF397C}|tryParse\\tryParse.vcxproj|C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\tryParse\\tryParse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AFC67F6-22A9-403E-8D19-3EFC77FF397C}|tryParse\\tryParse.vcxproj|solutionrelative:tryParse\\tryParse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "order.cpp",
+              "DocumentMoniker": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\order\\order.cpp",
+              "RelativeDocumentMoniker": "order\\order.cpp",
+              "ToolTip": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\order\\order.cpp",
+              "RelativeToolTip": "order\\order.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T09:29:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "find.cpp",
+              "DocumentMoniker": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\find\\find.cpp",
+              "RelativeDocumentMoniker": "find\\find.cpp",
+              "ToolTip": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\find\\find.cpp",
+              "RelativeToolTip": "find\\find.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T09:29:13.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tryParse.cpp",
+              "DocumentMoniker": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\tryParse\\tryParse.cpp",
+              "RelativeDocumentMoniker": "tryParse\\tryParse.cpp",
+              "ToolTip": "C:\\Users\\uchih\\source\\repos\\ComputerMemoryReferencesAndPointers\\tryParse\\tryParse.cpp",
+              "RelativeToolTip": "tryParse\\tryParse.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T09:28:31.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
