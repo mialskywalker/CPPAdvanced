@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\MemoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5981CCB-26E8-44C8-B6D1-8DF604418794}|removeInvalid\\removeInvalid.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagement\\removeInvalid\\removeInvalid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5981CCB-26E8-44C8-B6D1-8DF604418794}|removeInvalid\\removeInvalid.vcxproj|solutionrelative:removeInvalid\\removeInvalid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C6BC1-11D4-4200-8D2D-AE9754FE3C23}|minBy\\minBy.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagement\\minBy\\minBy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B4C6BC1-11D4-4200-8D2D-AE9754FE3C23}|minBy\\minBy.vcxproj|solutionrelative:minBy\\minBy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "removeInvalid.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagement\\removeInvalid\\removeInvalid.cpp",
+              "RelativeDocumentMoniker": "removeInvalid\\removeInvalid.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MemoryManagement\\removeInvalid\\removeInvalid.cpp",
+              "RelativeToolTip": "removeInvalid\\removeInvalid.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T12:45:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "minBy.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagement\\minBy\\minBy.cpp",
+              "RelativeDocumentMoniker": "minBy\\minBy.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\MemoryManagement\\minBy\\minBy.cpp",
+              "RelativeToolTip": "minBy\\minBy.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T10:30:49.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

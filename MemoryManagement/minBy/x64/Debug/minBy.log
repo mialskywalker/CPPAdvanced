@@ -1,0 +1,4 @@
+﻿  minBy.cpp
+C:\Projects\CPPAdvanced\MemoryManagement\minBy\minBy.cpp(49,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\CPPAdvanced\MemoryManagement\minBy\minBy.cpp(64,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  minBy.vcxproj -> C:\Projects\CPPAdvanced\MemoryManagement\x64\Debug\minBy.exe
