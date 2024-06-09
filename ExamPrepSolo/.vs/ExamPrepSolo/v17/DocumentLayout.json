@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\ExamPrepSolo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC4CC0-87C6-40AA-B975-E9092AE933DC}|cashJoint\\cashJoint.vcxproj|C:\\Projects\\CPPAdvanced\\ExamPrepSolo\\cashJoint\\cashJoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10BC4CC0-87C6-40AA-B975-E9092AE933DC}|cashJoint\\cashJoint.vcxproj|solutionrelative:cashJoint\\cashJoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cashJoint.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\ExamPrepSolo\\cashJoint\\cashJoint.cpp",
+              "RelativeDocumentMoniker": "cashJoint\\cashJoint.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\ExamPrepSolo\\cashJoint\\cashJoint.cpp",
+              "RelativeToolTip": "cashJoint\\cashJoint.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwDUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T10:12:13.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
