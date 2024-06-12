@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43846246-73A4-4417-86A8-A5FD7C5BEE4D}|minesweeper\\minesweeper.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\minesweeper\\minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43846246-73A4-4417-86A8-A5FD7C5BEE4D}|minesweeper\\minesweeper.vcxproj|solutionrelative:minesweeper\\minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C341DBD-5330-4DE3-908F-917588F0C4C9}|compareMatrices\\compareMatrices.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\compareMatrices\\compareMatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C341DBD-5330-4DE3-908F-917588F0C4C9}|compareMatrices\\compareMatrices.vcxproj|solutionrelative:compareMatrices\\compareMatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F327A1F-2B1A-4D14-8B17-A71EFF71712D}|someOrdering\\someOrdering.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\someOrdering\\someOrdering.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7F327A1F-2B1A-4D14-8B17-A71EFF71712D}|someOrdering\\someOrdering.vcxproj|solutionrelative:someOrdering\\someOrdering.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A2FE487-A98B-4878-8525-B6AD993F7362}|removeNegativesAndReverse\\removeNegativesAndReverse.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\removeNegativesAndReverse\\removeNegativesAndReverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9A2FE487-A98B-4878-8525-B6AD993F7362}|removeNegativesAndReverse\\removeNegativesAndReverse.vcxproj|solutionrelative:removeNegativesAndReverse\\removeNegativesAndReverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B3B5B8-4328-480C-80E2-A9D439AA2BB1}|printInParts\\printInParts.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\printInParts\\printInParts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90B3B5B8-4328-480C-80E2-A9D439AA2BB1}|printInParts\\printInParts.vcxproj|solutionrelative:printInParts\\printInParts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC4EFFD7-3E3D-44E0-9697-92FCDCB8A109}|gaussTrick\\gaussTrick.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\gaussTrick\\gaussTrick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC4EFFD7-3E3D-44E0-9697-92FCDCB8A109}|gaussTrick\\gaussTrick.vcxproj|solutionrelative:gaussTrick\\gaussTrick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A2FE487-A98B-4878-8525-B6AD993F7362}|removeNegativesAndReverse\\removeNegativesAndReverse.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\removeNegativesAndReverse\\removeNegativesAndReverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A2FE487-A98B-4878-8525-B6AD993F7362}|removeNegativesAndReverse\\removeNegativesAndReverse.vcxproj|solutionrelative:removeNegativesAndReverse\\removeNegativesAndReverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43846246-73A4-4417-86A8-A5FD7C5BEE4D}|minesweeper\\minesweeper.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\minesweeper\\minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{43846246-73A4-4417-86A8-A5FD7C5BEE4D}|minesweeper\\minesweeper.vcxproj|solutionrelative:minesweeper\\minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7F327A1F-2B1A-4D14-8B17-A71EFF71712D}|someOrdering\\someOrdering.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\someOrdering\\someOrdering.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F327A1F-2B1A-4D14-8B17-A71EFF71712D}|someOrdering\\someOrdering.vcxproj|solutionrelative:someOrdering\\someOrdering.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4EFFD7-3E3D-44E0-9697-92FCDCB8A109}|gaussTrick\\gaussTrick.vcxproj|C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\gaussTrick\\gaussTrick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC4EFFD7-3E3D-44E0-9697-92FCDCB8A109}|gaussTrick\\gaussTrick.vcxproj|solutionrelative:gaussTrick\\gaussTrick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "minesweeper.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\minesweeper\\minesweeper.cpp",
               "RelativeDocumentMoniker": "minesweeper\\minesweeper.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\minesweeper\\minesweeper.cpp",
               "RelativeToolTip": "minesweeper\\minesweeper.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwDIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-11T14:00:17.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "compareMatrices.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\compareMatrices\\compareMatrices.cpp",
               "RelativeDocumentMoniker": "compareMatrices\\compareMatrices.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\compareMatrices\\compareMatrices.cpp",
               "RelativeToolTip": "compareMatrices\\compareMatrices.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwDEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-11T14:00:06.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "someOrdering.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\someOrdering\\someOrdering.cpp",
               "RelativeDocumentMoniker": "someOrdering\\someOrdering.cpp",
@@ -77,33 +77,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "printInParts.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\printInParts\\printInParts.cpp",
               "RelativeDocumentMoniker": "printInParts\\printInParts.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\printInParts\\printInParts.cpp",
               "RelativeToolTip": "printInParts\\printInParts.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBsAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-11T13:59:36.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "removeNegativesAndReverse.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\removeNegativesAndReverse\\removeNegativesAndReverse.cpp",
               "RelativeDocumentMoniker": "removeNegativesAndReverse\\removeNegativesAndReverse.cpp",
               "ToolTip": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\removeNegativesAndReverse\\removeNegativesAndReverse.cpp",
               "RelativeToolTip": "removeNegativesAndReverse\\removeNegativesAndReverse.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwB0AAAADAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwB0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-11T13:59:20.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "gaussTrick.cpp",
               "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\MemoryManagementPointersAndReferencesExercises\\gaussTrick\\gaussTrick.cpp",
               "RelativeDocumentMoniker": "gaussTrick\\gaussTrick.cpp",
@@ -111,8 +111,7 @@
               "RelativeToolTip": "gaussTrick\\gaussTrick.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-11T13:56:38.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:56:38.757Z"
             }
           ]
         }

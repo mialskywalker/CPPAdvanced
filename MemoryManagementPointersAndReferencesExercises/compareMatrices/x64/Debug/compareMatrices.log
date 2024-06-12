@@ -1,0 +1,3 @@
+﻿  compareMatrices.cpp
+C:\Projects\CPPAdvanced\MemoryManagementPointersAndReferencesExercises\compareMatrices\compareMatrices.cpp(21,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  compareMatrices.vcxproj -> C:\Projects\CPPAdvanced\MemoryManagementPointersAndReferencesExercises\x64\Debug\compareMatrices.exe
