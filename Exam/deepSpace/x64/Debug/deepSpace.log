@@ -1,0 +1,3 @@
+﻿  deepSpace.cpp
+C:\Projects\CPPAdvanced\Exam\deepSpace\deepSpace.cpp(23,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  deepSpace.vcxproj -> C:\Projects\CPPAdvanced\Exam\x64\Debug\deepSpace.exe

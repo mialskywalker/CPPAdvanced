@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPAdvanced\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB67AF45-8356-4023-A004-DDE5F3A47182}|deepSpace\\deepSpace.vcxproj|C:\\Projects\\CPPAdvanced\\Exam\\deepSpace\\deepSpace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB67AF45-8356-4023-A004-DDE5F3A47182}|deepSpace\\deepSpace.vcxproj|solutionrelative:deepSpace\\deepSpace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C886E42A-3B58-4515-92AE-27FFC6D8615F}|traffic\\traffic.vcxproj|C:\\Projects\\CPPAdvanced\\Exam\\traffic\\traffic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C886E42A-3B58-4515-92AE-27FFC6D8615F}|traffic\\traffic.vcxproj|solutionrelative:traffic\\traffic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1278CCC-F863-4636-A2BD-D41947F52CFB}|fishes\\fishes.vcxproj|C:\\Projects\\CPPAdvanced\\Exam\\fishes\\fishes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1278CCC-F863-4636-A2BD-D41947F52CFB}|fishes\\fishes.vcxproj|solutionrelative:fishes\\fishes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "traffic.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\Exam\\traffic\\traffic.cpp",
+              "RelativeDocumentMoniker": "traffic\\traffic.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\Exam\\traffic\\traffic.cpp",
+              "RelativeToolTip": "traffic\\traffic.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwFcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T07:25:53.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deepSpace.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\Exam\\deepSpace\\deepSpace.cpp",
+              "RelativeDocumentMoniker": "deepSpace\\deepSpace.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\Exam\\deepSpace\\deepSpace.cpp",
+              "RelativeToolTip": "deepSpace\\deepSpace.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T06:16:02.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fishes.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPAdvanced\\Exam\\fishes\\fishes.cpp",
+              "RelativeDocumentMoniker": "fishes\\fishes.cpp",
+              "ToolTip": "C:\\Projects\\CPPAdvanced\\Exam\\fishes\\fishes.cpp",
+              "RelativeToolTip": "fishes\\fishes.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T06:00:24.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
